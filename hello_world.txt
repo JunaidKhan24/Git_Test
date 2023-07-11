@@ -1,0 +1,1 @@
+This is my learning area for web development through the odin project. at the moment, i am learning about Git, a version control system.
